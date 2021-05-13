@@ -1,0 +1,4 @@
+#Wed May 12 21:52:00 PDT 2021
+base.0=/Users/oguzhanakan/Desktop/rec/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
